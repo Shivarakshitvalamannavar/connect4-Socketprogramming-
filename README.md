@@ -1,16 +1,7 @@
 # Connect4Terminal
 A simple Connect 4 implementation in Python with web support
-
-View video preview [here](https://giant.gfycat.com/PortlyCraftyDairycow.webm)
-
-![Video Preview](https://raw.githubusercontent.com/imcauley/Connect4Terminal/master/preview.jpg)
-
-## Usage
-To start a new game create a server window with the IP and socket.
-
-Then connect 2 client windows with the corresponding IP and socket.
-
-## Todo
-- Choose IP and socket from command line
-- Custom client token icons
-- Better error handling for disconnects
+Frist we need to have these codes on two different laptops 
+Before we proceed any further  we will have to get a certification from openssl(We can get one from Sourceforge.net) and then we can start working with this 
+One Device will act as server and the other device can act as the players 
+Open the code and configure the ip adresses and port as per your configuration
+Note that Both devices should be running on the same network 
